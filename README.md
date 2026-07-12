@@ -2,7 +2,7 @@
 
 My résumé, written in [Typst](https://typst.app) and version-controlled here. The PDF rebuilds automatically on every push.
 
-## [→ View résumé](https://resume.kylepace.net/resume.pdf) · [Download PDF](https://resume.kylepace.net/resume.pdf)
+## [→ View résumé](https://resume.kylepace.net) · [Download PDF](https://resume.kylepace.net/resume.pdf)
 
 ## How it works
 
