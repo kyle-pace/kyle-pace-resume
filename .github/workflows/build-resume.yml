@@ -6,6 +6,7 @@ on:
     paths:
       - "resume.typ"
       - "fonts/**"
+      - ".github/workflows/build-resume.yml"
   workflow_dispatch:
 
 permissions:
