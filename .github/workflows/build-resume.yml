@@ -1,0 +1,31 @@
+name: Build resume
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "resume.typ"
+      - "fonts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Compile PDF
+        run: typst compile --font-path fonts resume.typ resume.pdf
+
+      - name: Commit updated PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Rebuild resume.pdf"
+          file_pattern: resume.pdf
