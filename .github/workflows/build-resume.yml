@@ -23,10 +23,10 @@ jobs:
         uses: typst-community/setup-typst@v4
 
       - name: Compile PDF
-        run: typst compile --font-path fonts resume.typ resume.pdf
+        run: typst compile --font-path fonts resume.typ Kyle-Pace-Resume.pdf
 
       - name: Commit updated PDF
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Rebuild resume.pdf"
-          file_pattern: resume.pdf
+          commit_message: "Rebuild Kyle-Pace-Resume.pdf"
+          file_pattern: Kyle-Pace-Resume.pdf
