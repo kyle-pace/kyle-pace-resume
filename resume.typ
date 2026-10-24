@@ -63,8 +63,8 @@
     text(size: 10pt, fill: muted)[Product Leader · Seattle, WA]
   },
   text(size: 9pt, fill: muted)[
-    kylepace\@gmail.com \
-    linkedin.com/in/kylepace \
+    mail\@kylepace.net \
+    linkedin.com/in/kylepacepm \
     kylepace.net
   ],
 )
@@ -72,32 +72,36 @@
 // ---------- summary ----------
 
 #section("Summary")
-Product leader with 5+ years of product management and leadership across streaming media and immersive experiences. Founding Director of Product at Local Public, leading a multi-platform streaming service from inception at Cascade PBS through spinoff into an independent company. Proven track record leading development teams to launch 10+ digital products. MBA graduate with a passion for addressing complex user problems with curiosity and empathy.
+Product leader with 5+ years building multi-platform streaming products for public media. Director of Product at Local Public, a white-label streaming platform for 20+ PBS stations that grew from one station's app into an independent public benefit corporation. Leads the full product lifecycle, from strategy and hands-on design to compliance and launch.
 
 // ---------- experience ----------
 
 #section("Experience")
 
-#role("Founding Director of Product", "Local Public · Seattle, WA", "Jul 2026 – Present")
+#role("Director of Product", "Local Public · Seattle, WA", "Jul 2026 – Present")
 #bullets(
-  [Lead product for a white-label streaming platform serving 18+ PBS member stations (and growing) across nine platforms (iOS, Android, Apple TV, Fire TV, Android TV, Roku, Samsung Tizen, LG webOS, and web), plus a station-facing CMS and API.],
-  [Guided the platform through its spinoff from Cascade PBS into an independent Public Benefit Corporation, standing up product operations, tooling, and station onboarding from scratch.],
-  [Own end-to-end app store submission and release management for all partner stations across every major app store.],
+  [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
+  [Built the company's product function after the spin-off, hiring the first dedicated Product Manager and managing a product designer and a partner success manager.],
+  [Served as the platform's lead product designer for a year before the team's first design hire, designing 1,000+ screens across mobile, TV and web for the largest redesign in the platform's history.],
+  [Adopted AI-assisted design workflows in Figma early, and rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
+  [Kept every partner station compliant with new state age-verification laws, shipping on deadline with an approach that stores no user age data.],
+  [Stood up core operations for the newly independent company: CRM, company website, station help center, and incident response and compliance programs.],
 )
 
 #role("Product Manager, Media and Innovation", "Cascade PBS · Seattle, WA", "Aug 2022 – Jun 2026")
 #bullets(
-  [Led a six-person team to develop a new, scalable video streaming platform product, serving 10 member stations and hundreds of thousands of users across eight distinct content delivery platforms.],
-  [Spearheaded a new content platform vision focused on local curation, branding, and direct member messaging, oriented toward reenvisioning the role of public stations in a post-broadcast world.],
-  [Drove compliant end-to-end app release processes across all major app stores, with an eye to version management and change implementation.],
-  [Championed new collaboration and quality standards by moving teams to modern tooling (Jira, Confluence, Figma) and by creating an internal bug and feature requests portal.],
+  [Grew a single station's streaming app into a multi-tenant SaaS platform powering 100+ station-branded apps on nine platforms, laying the groundwork for its spin-off as Local Public.],
+  [Led a cross-functional team of about 20, spanning in-house engineering and two outside development partners, through a full platform rebuild that launched new apps on every major mobile and TV platform.],
+  [Scaled the platform to weekly releases and launched 12 stations in a single year by building a repeatable onboarding process, support desk and station documentation.],
+  [Owned app store release management and policy compliance across eight stores, resolving Roku certification and Apple review issues to keep launches on schedule.],
+  [Contributed to station revenue growth, including a 53% increase in contributions through Cascade PBS's apps and an 11.2% free-to-paid conversion rate on WETA+, about three times the national PBS app's rate.],
 )
 
 #role("Product Manager, Immersive Experiences", "3 Enrollment Marketing · Remote", "Sep 2021 – Aug 2022", subline: [Promoted from Project Manager, Mar 2022])
 #bullets(
-  [Designed and launched 3 immersive product offerings featuring 3D virtual spaces, 360-degree media, and interactive virtual tours. Delivered 20 end-to-end deliverables for 10 higher-education clients.],
+  [Designed and launched 3 immersive product offerings featuring 3D virtual spaces, 360-degree media, and interactive virtual tours. Delivered 20+ white-label virtual environments for 10 higher-education clients.],
   [Developed 3 new product roadmaps aligned with the organizational mission to expand the product suite and unlock VR and AR product marketing channels, securing buy-in from executive stakeholders.],
-  [Managed end-to-end product development, from ideation to delivery, adapting strategies to clients' goals of personalized, student-focused experiences and generating 150+ qualified leads among hard-to-reach student segments.],
+  [Managed product development from ideation to delivery, generating 150+ qualified leads for clients.],
 )
 
 #role("Junior Project Manager", "F. Schumacher & Co. · Remote", "Apr 2021 – Sep 2021", subline: [Promoted from Digital Innovation Intern, Jun 2021])
@@ -106,6 +110,9 @@ Product leader with 5+ years of product management and leadership across streami
 )
 
 #role("UX Designer (Contract)", "MUUD Ring · Remote / Los Angeles, CA", "Oct 2020 – Dec 2020")
+#bullets(
+  [Built a wellness startup's product roadmap and finished a stalled user research project in four weeks.],
+)
 
 // ---------- education ----------
 
@@ -128,13 +135,17 @@ Product leader with 5+ years of product management and leadership across streami
   columns: (110pt, 1fr),
   row-gutter: 9pt,
   column-gutter: 12pt,
-  text(weight: "semibold", size: 9pt)[Product Management],
-  [Product strategy and roadmaps · Agile and Scrum · A/B testing and experimentation · data analysis and visualization · SDLC · cross-functional team leadership],
+  text(weight: "semibold", size: 9pt)[Product Leadership],
+  [Product strategy and roadmaps · product discovery · team building and people management · development partner management · executive and stakeholder alignment · Agile delivery],
   text(weight: "semibold", size: 9pt)[Platforms],
-  [iOS and Android development · OTT and streaming content delivery · app store compliance and lifecycle management · VR/AR (virtual tours, 360° media, immersive spaces)],
-  text(weight: "semibold", size: 9pt)[UX Design],
-  [Journey and experience mapping · information architecture · wireframing and prototyping · user testing and validation],
+  [Mobile, connected TV and web apps · OTT streaming · multi-tenant SaaS and CMS · app store release management and certification],
+  text(weight: "semibold", size: 9pt)[Design],
+  [Hands-on UI design · design systems · AI-assisted design and prototyping · information architecture · user research and usability testing · accessibility],
+  text(weight: "semibold", size: 9pt)[Compliance & Ops],
+  [App store policy · privacy and age-verification compliance · incident response · partner onboarding, support and documentation],
   text(weight: "semibold", size: 9pt)[Business],
-  [Go-to-market planning · market research and competitive analysis · brand strategy · revenue and usage growth],
+  [Go-to-market planning · market sizing and competitive analysis · B2B partner success · revenue and membership growth],
+  text(weight: "semibold", size: 9pt)[Tools],
+  [Jira, Jira Product Discovery, Confluence, Figma, Figma Make, HubSpot, AI agents (Claude)],
 )
 ]
