@@ -82,8 +82,8 @@ Product leader with 5+ years building multi-platform streaming products for publ
 #bullets(
   [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
   [Built the company's product function after the spin-off, hiring the first dedicated Product Manager and managing a product designer and a partner success manager.],
-  [Served as the platform's lead product designer for a year before the team's first design hire, designing 1,000+ screens across mobile, TV and web for the largest redesign in the platform's history.],
-  [Adopted AI-assisted design workflows in Figma early, and rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
+  [With no dedicated app designer in 2026, took on app design as part of the role, designing four major releases across mobile, TV and web, ending with 3.0, the largest redesign in the platform's history.],
+  [Directed AI agents in Figma to do the design work on top of the existing design system, and rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
   [Kept every partner station compliant with new state age-verification laws, shipping on deadline with an approach that stores no user age data.],
   [Stood up core operations for the newly independent company: CRM, company website, station help center, and incident response and compliance programs.],
 )
