@@ -93,7 +93,7 @@ Product leader with 5+ years in product management, the last four growing one st
 #bullets(
   [Grew a single station's streaming app into a multi-tenant SaaS platform powering 100+ station-branded apps on nine platforms, laying the groundwork for its spin-off as Local Public.],
   [Led a cross-functional team of about 20, spanning in-house engineering and two outside development partners, through a full platform rebuild that launched new apps on every major mobile and TV platform.],
-  [Scaled the platform to weekly releases and launched 12 stations in a single year by building a repeatable onboarding process, support desk and station documentation.],
+  [Launched apps for 12 stations in a single year by building a repeatable onboarding process, support desk and station documentation.],
   [Owned app store release management and policy compliance across eight stores, resolving Roku certification and Apple review issues to keep launches on schedule.],
   [Contributed to station revenue growth, including a 53% increase in contributions through Cascade PBS's apps and an 11.2% free-to-paid conversion rate on WETA+, about three times the national PBS app's rate.],
 )
