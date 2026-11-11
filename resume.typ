@@ -8,6 +8,8 @@
 #set page(paper: "us-letter", margin: (x: 0.7in, top: 0.6in, bottom: 0.6in))
 #set text(font: "Inter", size: 9.5pt, fill: ink)
 #set par(justify: false, leading: 0.62em)
+// Keep hyphenated compounds on one line so PDF text extraction (ATS) keeps the hyphen.
+#show regex("\\w+(-\\w+)+"): it => box(it)
 
 // ---------- helpers ----------
 
@@ -72,7 +74,7 @@
 // ---------- summary ----------
 
 #section("Summary")
-Product leader with 5+ years building multi-platform streaming products for public media. Director of Product at Local Public, a white-label streaming platform for 20+ PBS stations that grew from one station's app into an independent public benefit corporation. Leads the full product lifecycle, from strategy and hands-on design to compliance and launch.
+Product leader with 5+ years in product management, the last four growing one station's streaming app into an independent multi-tenant SaaS company serving 20+ partners on nine platforms. Leads the full product lifecycle, from strategy and hands-on design to compliance and launch.
 
 // ---------- experience ----------
 
@@ -82,10 +84,10 @@ Product leader with 5+ years building multi-platform streaming products for publ
 #bullets(
   [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
   [Built the company's product function after the spin-off, hiring the first dedicated Product Manager and managing a product designer and a partner success manager.],
-  [With no dedicated app designer in 2026, took on app design as part of the role, designing four major releases across mobile, TV and web, ending with 3.0, the largest redesign in the platform's history.],
-  [Directed AI agents in Figma to do the design work on top of the existing design system, and rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
+  [Took on app design alongside the director role, designing four major 2026 releases across mobile, TV and web with AI-assisted design in Figma, ending with 3.0, the largest redesign in the platform's history.],
+  [Rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
   [Kept every partner station compliant with new state age-verification laws, shipping on deadline with an approach that stores no user age data.],
-  [Stood up core operations for the newly independent company: CRM, company website, station help center, and incident response and compliance programs.],
+  [Stood up core operations for the newly independent company: CRM, company website and station help center, plus incident response and compliance programs.],
 )
 
 #role("Product Manager, Media and Innovation", "Cascade PBS · Seattle, WA", "Aug 2022 – Jun 2026")
@@ -99,9 +101,8 @@ Product leader with 5+ years building multi-platform streaming products for publ
 
 #role("Product Manager, Immersive Experiences", "3 Enrollment Marketing · Remote", "Sep 2021 – Aug 2022", subline: [Promoted from Project Manager, Mar 2022])
 #bullets(
-  [Designed and launched 3 immersive product offerings featuring 3D virtual spaces, 360-degree media, and interactive virtual tours. Delivered 20+ white-label virtual environments for 10 higher-education clients.],
-  [Developed 3 new product roadmaps aligned with the organizational mission to expand the product suite and unlock VR and AR product marketing channels, securing buy-in from executive stakeholders.],
-  [Managed product development from ideation to delivery, generating 150+ qualified leads for clients.],
+  [As the company's first Product Manager, set up the product discipline for a new immersive web line and won executive buy-in for three roadmaps expanding the suite into VR and AR.],
+  [Designed and launched three immersive products (3D virtual spaces, 360-degree media and interactive virtual tours), delivering 20+ white-label environments for 10 higher-education clients and generating 150+ qualified leads.],
 )
 
 #role("Junior Project Manager", "F. Schumacher & Co. · Remote", "Apr 2021 – Sep 2021", subline: [Promoted from Digital Innovation Intern, Jun 2021])
@@ -136,15 +137,11 @@ Product leader with 5+ years building multi-platform streaming products for publ
   row-gutter: 9pt,
   column-gutter: 12pt,
   text(weight: "semibold", size: 9pt)[Product Leadership],
-  [Product strategy and roadmaps · product discovery · team building and people management · development partner management · executive and stakeholder alignment · Agile delivery],
+  [Product strategy and roadmaps · product discovery · team building and people management · development partner management · stakeholder alignment],
   text(weight: "semibold", size: 9pt)[Platforms],
-  [Mobile, connected TV and web apps · OTT streaming · multi-tenant SaaS and CMS · app store release management and certification],
+  [Mobile, connected TV and web apps · OTT streaming · multi-tenant SaaS and CMS · app store release management, policy and compliance],
   text(weight: "semibold", size: 9pt)[Design],
-  [Hands-on UI design · design systems · AI-assisted design and prototyping · information architecture · user research and usability testing · accessibility],
-  text(weight: "semibold", size: 9pt)[Compliance & Ops],
-  [App store policy · privacy and age-verification compliance · incident response · partner onboarding, support and documentation],
-  text(weight: "semibold", size: 9pt)[Business],
-  [Go-to-market planning · market sizing and competitive analysis · B2B partner success · revenue and membership growth],
+  [UI design and design systems · AI-assisted design and prototyping · user research · accessibility],
   text(weight: "semibold", size: 9pt)[Tools],
   [Jira, Jira Product Discovery, Confluence, Figma, Figma Make, HubSpot, AI agents (Claude)],
 )
