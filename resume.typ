@@ -137,12 +137,12 @@ Product leader with 5+ years in product management, the last four growing one st
   row-gutter: 9pt,
   column-gutter: 12pt,
   text(weight: "semibold", size: 9pt)[Product Leadership],
-  [Product strategy and roadmaps · product discovery · team building and people management · development partner management · stakeholder alignment],
+  [Product strategy and roadmaps · product discovery · team building and people management · development partner management],
   text(weight: "semibold", size: 9pt)[Platforms],
   [Mobile, connected TV and web apps · OTT streaming · multi-tenant SaaS and CMS · app store release management, policy and compliance],
-  text(weight: "semibold", size: 9pt)[Design],
-  [UI design and design systems · AI-assisted design and prototyping · user research · accessibility],
+  text(weight: "semibold", size: 9pt)[Design & Build],
+  [UI design and design systems · AI-assisted design and prototyping · AI-assisted app and web development · user research · accessibility],
   text(weight: "semibold", size: 9pt)[Tools],
-  [Jira, Jira Product Discovery, Confluence, Figma, Figma Make, HubSpot, AI agents (Claude)],
+  [Jira, Jira Product Discovery, Confluence, Figma, Figma Make, HubSpot, GA4, Claude Code and AI coding agents],
 )
 ]
