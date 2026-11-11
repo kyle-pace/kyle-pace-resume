@@ -82,8 +82,8 @@ Product leader with 5+ years in product management, the last four growing one st
 
 #role("Director of Product", "Local Public · Seattle, WA", "Jul 2026 – Present")
 #bullets(
-  [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
-  [Built the company's product function after the spin-off, hiring the first dedicated Product Manager and managing a product designer and a partner success manager.],
+  [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations and 175K+ viewers a year across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
+  [Built the company's product function after the spin-off, hiring the first dedicated Product Manager from 350+ applicants and managing a product designer and a partner success manager.],
   [Took on app design alongside the director role, designing four major 2026 releases across mobile, TV and web with AI-assisted design in Figma, ending with 3.0, the largest redesign in the platform's history.],
   [Rebuilt the app and web portal design systems to be brand-neutral so every screen adapts to any partner station's brand.],
   [Kept every partner station compliant with new state age-verification laws, shipping on deadline with an approach that stores no user age data.],
