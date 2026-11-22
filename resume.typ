@@ -80,7 +80,7 @@ Product leader with 5+ years in product management, the last four growing one st
 
 #section("Experience")
 
-#role("Director of Product", "Local Public · Seattle, WA", "Jul 2026 – Present")
+#role("Director of Product", "Local Public TV · Seattle, WA", "Jul 2026 – Present")
 #bullets(
   [Lead product strategy and roadmap for a white-label streaming platform serving 20+ PBS member stations and 175K+ viewers a year across nine mobile, connected TV and web platforms, plus a station-facing CMS and API.],
   [Built the company's product function after the spin-off, hiring the first dedicated Product Manager from 350+ applicants and managing a product designer and a partner success manager.],
@@ -91,7 +91,7 @@ Product leader with 5+ years in product management, the last four growing one st
 
 #role("Product Manager, Media and Innovation", "Cascade PBS · Seattle, WA", "Aug 2022 – Jun 2026")
 #bullets(
-  [Grew a single station's streaming app into a multi-tenant SaaS platform powering 100+ station-branded apps on nine platforms, laying the groundwork for its spin-off as Local Public.],
+  [Grew a single station's streaming app into a multi-tenant SaaS platform powering 100+ station-branded apps on nine platforms, laying the groundwork for its spin-off as Local Public TV.],
   [Led a cross-functional team of about 20, spanning in-house engineering and two outside development partners, through a full platform rebuild that launched new apps on every major mobile and TV platform.],
   [Launched apps for 12 stations in a single year by building a repeatable onboarding process, support desk and station documentation.],
   [Owned app store release management and policy compliance across eight stores, resolving Roku certification and Apple review issues to keep launches on schedule.],
